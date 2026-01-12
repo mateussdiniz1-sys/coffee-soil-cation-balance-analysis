@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Statistical analysis code for coffee soil cation-balance experiment"
+version: 1.0.2
+date-released: 2026-01-10
+license: MIT
+authors:
+  - family-names: Diniz
+    given-names: Mateus Henrique dos Santos
+  - family-names: Lemes
+    given-names: Ernane Miranda
+  - family-names: Mota
+    given-names: Raquel Pinheiro da
+  - family-names: Camargo
+    given-names: Reginaldo de
+  - family-names: Petrovic
+    given-names: Bojana
+repository-code: "REPLACE_WITH_YOUR_GITHUB_REPO_URL"
+doi: "TO_BE_ADDED_AFTER_ZENODO_SOFTWARE_ARCHIVE"

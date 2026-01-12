@@ -1,0 +1,18 @@
+# environments
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# outputs
+supplementary_statistical_analysis_outputs.xlsx
+*.xlsx
+*.log
+
+# local datasets (data are hosted on Zenodo)
+plot_level_data_90d.csv
+baseline_site_characterization_table1.csv
